@@ -1,0 +1,22 @@
+.a{
+    border-radius: 100%;
+    padding: 10px;
+    
+
+
+}
+.t{
+    margin-top: -30px;
+    background-color: aqua;
+    
+}
+.pic{
+    height: 7rem;
+    width: 5rem;
+}
+.m{
+    text-align: center;
+}
+#d{
+    color: red;
+}
